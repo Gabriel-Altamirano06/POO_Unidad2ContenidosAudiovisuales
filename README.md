@@ -69,29 +69,28 @@ También incorpora validaciones para evitar datos vacíos y cantidades negativas
 
 ## 7. Estructura del proyecto
 
-```text
 POO_Unidad2_ContenidosAudiovisuales/
 |
 |-- src/
-|   |-- uni1a/
-|       |-- ContenidoAudiovisual.java
-|       |-- Pelicula.java
-|       |-- SerieDeTV.java
-|       |-- Documental.java
-|       |-- Actor.java
-|       |-- Temporada.java
-|       |-- Investigador.java
-|       |-- VideoMusical.java
-|       |-- ConferenciaCientifica.java
-|       |-- SistemaAudiovisual.java
+|   |-- main/
+|       |-- java/
+|           |-- uni1a/
+|               |-- ContenidoAudiovisual.java
+|               |-- Pelicula.java
+|               |-- SerieDeTV.java
+|               |-- Documental.java
+|               |-- Actor.java
+|               |-- Temporada.java
+|               |-- Investigador.java
+|               |-- VideoMusical.java
+|               |-- ConferenciaCientifica.java
+|               |-- SistemaAudiovisual.java
 |
 |-- docs/
-|   |-- Diagrama_POO_Unidad2.drawio
-|   |-- Diagrama_POO_Unidad2.png
-|
 |-- README.md
 |-- .gitignore
-```
+|-- .project
+
 
 ## 8. Instalación y ejecución
 
